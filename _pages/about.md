@@ -28,7 +28,7 @@ Jun Guo, Xiaojian Ma, **Yue Fan**, Huaping Liu, Qing Li. Semantic Gaussians: Ope
 This work reconstructs the 3D scenes and perserves the semantic information using Gaussian splatting.
 
 
-Tianxu Wang, **Yue Fan**, Xiuli Ma. Attention Based Models for Cell Type Classification on Single-Cell RNA-Seq Data. ECAI 2023. [[pdf][(https://ebooks.iospress.nl/volumearticle/64489)]]\
+Tianxu Wang, **Yue Fan**, Xiuli Ma. Attention Based Models for Cell Type Classification on Single-Cell RNA-Seq Data. ECAI 2023. [[pdf](https://ebooks.iospress.nl/volumearticle/64489)]\
 We build two kinds of attention-based model to predict the types of the cells. We found the attention weights to be a good interpretation for cell-type classification. **This paper is awarded as the outstanding paper for AI in socal good.**
 
 **Yue Fan**, Xiuli Ma. Multi-vector embedding on networks with taxonomies. IJCAI 2022. [[pdf](https://www.ijcai.org/proceedings/2022/0408.pdf)]\
