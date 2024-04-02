@@ -25,8 +25,8 @@ author:
   name             : "Yue Fan"
   pronouns         : # example: "she/her"  
   bio              : "A research engineer at BIGAI."
-  location         : #"Earth"
-  employer         : "BIGAI"
+  location         : "Beijing, China"
+  employer         : "[BIGAI](https://eng.bigai.ai/)"
   uri              : # URL
   email            : "fanyue@bigai.ai" 
 
