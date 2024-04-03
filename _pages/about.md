@@ -43,4 +43,4 @@ Tag2Vec learns the embedding of both the nodes and their tags in a hyperbolic sp
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TIeYjEODY7oKR2GFoYcES7YEEd-MxYlAZa5vnTU6D5M&cl=ffffff&w=a" width=50%></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TIeYjEODY7oKR2GFoYcES7YEEd-MxYlAZa5vnTU6D5M&cl=ffffff&w=a"></script>
