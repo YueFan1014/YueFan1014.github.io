@@ -6,10 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! I am currently a research engineer at [Beijing Institute for General Artificial Intelligence](https://eng.bigai.ai/). Previously I recieved my master degree in Intelligence Science and Technology from Peking University (2020-2023) and my bachelor degree in Computer Science from Peking University (2016-2020).
+Welcome to my homepage! I am currently a research engineer at [Beijing Institute for General Artificial Intelligence](https://eng.bigai.ai/). My current research interests include: Embodied AI, Video Understanding and Robotics. Previously I worked on Bioinformatics and Graph Representation learning. In my leisure time, I am also intrested in Quantitative Trading.
 
-My research interest include: Embodied AI, Multi-Modal Learning, Bioinformatics and Graph Rresentation Learning. I am also intrested in Quantitative Trading.
-
+Education
+======
+2016.9-2020.6, Bachelor in Computer Science, Peking University\
+2020.9-2023.6, Master in Intelligence Science and Technology, Peking University
 
 
 Experiences
