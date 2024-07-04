@@ -23,7 +23,7 @@ We won the **second place** in the NeurIPS 2022 OGB-LSC challenge, which is a co
 
 Publications
 ======
-**Yue Fan**, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, Zhi Gao, Qing Li. VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding. arxiv 2024. [[pdf](https://arxiv.org/pdf/2403.11481.pdf)]\
+**Yue Fan**, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, Zhi Gao, Qing Li. VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding. ECCV 2024. [[pdf](https://arxiv.org/pdf/2403.11481.pdf)]\
 We build VideoAgent that understands long videos and achieves the performance close to Gemini 1.5 Pro. Details can be found [here](https://videoagent.github.io). We are now building real-time VideoAgent.
 
 Jun Guo, Xiaojian Ma, **Yue Fan**, Huaping Liu, Qing Li. Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting. arxiv 2024. [[pdf](https://arxiv.org/pdf/2403.15624.pdf)]\
