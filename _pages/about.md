@@ -23,8 +23,16 @@ We won the **second place** in the NeurIPS 2022 OGB-LSC challenge, which is a co
 
 Publications
 ======
+**Yue Fan**, Xiaojian Ma, Rongpeng Su, Jun Guo, Rujie Wu, Xi Chen, Qing Li. Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding. ICCV 2025. [[pdf](https://www.arxiv.org/pdf/2501.00358)]\
+We introduces Embodied VideoAgent, an LLM-based system that builds dynamic 3D scene memory from egocentric videos and embodied sensors, achieving state-of-the-art performance in reasoning and planning tasks.
+
+
+
+Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaojian Ma, Tao Yuan, **Yue Fan**, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li. Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage. ICLR 2025 Spotlight. [[pdf](https://arxiv.org/pdf/2412.15606)]\
+We proposes T3-Agent, a multi-modal agent tuned with the MM-Traj dataset for better tool-usage reasoning, boosting VLM performance by 20% on benchmarks.
+
 **Yue Fan**, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, Zhi Gao, Qing Li. VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding. ECCV 2024. [[pdf](https://arxiv.org/pdf/2403.11481.pdf)]\
-We build VideoAgent that understands long videos and achieves the performance close to Gemini 1.5 Pro. Details can be found [here](https://videoagent.github.io). We are now building real-time VideoAgent.
+We build VideoAgent that understands long videos and achieves the performance close to Gemini 1.5 Pro. Details can be found [here](https://videoagent.github.io).
 
 Jun Guo, Xiaojian Ma, **Yue Fan**, Huaping Liu, Qing Li. Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting. arxiv 2024. [[pdf](https://arxiv.org/pdf/2403.15624.pdf)]\
 This work reconstructs the 3D scenes and perserves the semantic information using Gaussian splatting.
