@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! I am currently a research engineer at [Beijing Institute for General Artificial Intelligence](https://eng.bigai.ai/). My current research interests include: Embodied AI, Video Understanding and Robotics. Previously I worked on Bioinformatics and Graph Representation learning. In my leisure time, I am also intrested in Quantitative Trading.
+Welcome to my homepage! I am currently a research engineer at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My current research interests include: AI4Science, agentic systems and deep research. I am also interested in Quantitative Trading.
 
 Education
 ======
@@ -16,6 +16,14 @@ Education
 
 Experiences
 ======
+2025.8-present, Research Engineer, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). \
+Interested in AI4Science, Agentic Systems and Deep Research.
+
+
+2023.7-2025.8, Research Engineer, [Beijing Institute for General Artificial Intelligence](https://eng.bigai.ai/). \
+I was interested in Embodied AI, Video Understanding and Robotics.
+
+
 2022.7-2022.12, Research Intern, Microsoft Research Aisa.\
 We won the **second place** in the NeurIPS 2022 OGB-LSC challenge, which is a competition of link prediction on huge knowledge graphs. Our technical report can be found [here](https://ogb.stanford.edu/paper/neurips2022/wikikg90mv2_DNAKG.pdf).
 
