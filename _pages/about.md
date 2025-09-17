@@ -31,7 +31,7 @@ We won the **second place** in the NeurIPS 2022 OGB-LSC challenge, which is a co
 
 Publications
 ======
-**Yue Fan**, Xiaojian Ma, Rongpeng Su, Jun Guo, Rujie Wu, Xi Chen, Qing Li. Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding. ICCV 2025. [[pdf](https://www.arxiv.org/pdf/2501.00358)]\
+**Yue Fan**, Xiaojian Ma, Rongpeng Su, Jun Guo, Rujie Wu, Xi Chen, Qing Li. Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding. ICCV 2025 Spotlight. [[pdf](https://www.arxiv.org/pdf/2501.00358)]\
 We introduces Embodied VideoAgent, an LLM-based system that builds dynamic 3D scene memory from egocentric videos and embodied sensors, achieving state-of-the-art performance in reasoning and planning tasks.
 
 
